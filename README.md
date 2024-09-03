@@ -1,8 +1,8 @@
-Flipzon Flash Sale API
-Overview
+**Flipzon Flash Sale API**
+**Overview**
 The Flipzon Flash Sale API is a backend service for managing flash sales in an eCommerce platform. It handles sales creation, product inventory management, and user transactions, with robust features to ensure smooth operation and performance under load.
 
-Getting Started
+**Getting Started**
 Prerequisites
 To run this project locally, you'll need:
 
@@ -10,7 +10,7 @@ Node.js: Ensure you have Node.js (v14 or later) installed on your machine. You c
 
 MongoDB: You'll need MongoDB installed and running. You can download it from mongodb.com or use a cloud-based MongoDB service like MongoDB Atlas.
 
-Installation
+**Installation**
 Clone the Repository
 
 bash
