@@ -15,7 +15,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/Pixer007/Pixer007.flash.sale.git
+git clone (https://github.com/Pixer007/Pixer007.flash-sale)
 cd flipzon-flash-sale
 Install Dependencies
 
