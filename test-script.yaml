@@ -1,0 +1,12 @@
+config:
+  target: 'http://localhost:5000'
+  phases:
+    - duration: 60
+      arrivalRate: 50
+scenarios:
+  - flow:
+    - post:
+        url: '/sales/66d69f3676d189b497f979e0/purchase'
+        json:
+          userId: '66d5f5f17aecf2fcded7dfa6'
+          quantity: 1
